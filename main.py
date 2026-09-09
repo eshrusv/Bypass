@@ -537,7 +537,7 @@ def _build_welcome_template():
     global _WELCOME_HTML_GENERIC
     _WELCOME_HTML_GENERIC = (
         f"<blockquote>"
-        f"{_te(_E_FLOW,'💐')} <b>𝗧ʜᴇ 𝗙ᴇʟɪx 𝗕ʏᴩᴀꜱꜱ 𝗕ᴏᴛ</b> {_te(_E_STAR,'🌟')}\n"
+        f"{_te(_E_FLOW,'💐')} <b>𝗧ʜᴇ 𝗘ꜱʜ 𝗕ʏᴩᴀꜱꜱ 𝗕ᴏᴛ</b> {_te(_E_STAR,'🌟')}\n"
         f"{_LOOP_SINGLE * 10}\n"
         f"{_te(_E_SKULL,'💀')}{_te(_E_HI,'👋')} <b>𝗛ᴇʟʟᴏ 殺┋ <a href='tg://user?id={{uid}}'>{{fname}}</a> !!</b>\n\n"
         f"{_te(_E_TEASE,'😝')} <b>𝚂ʜᴏʀᴛɴᴇʀ ʟɪɴᴋ ʙʏᴩᴀꜱꜱ ʙᴏᴛ!</b>\n\n"
