@@ -23,7 +23,7 @@ def home():
     <html>
     <head><title>Felix Bypass Bot</title></head>
     <body style="font-family:monospace; background:#0f0f0f; color:#00ff00; padding:40px;">
-        <h2>🤖 Felix Bypass Bot</h2>
+        <h2>🤖 esh Bypass Bot</h2>
         <p>✅ Status: <b>ONLINE</b></p>
         <p>⏱ Uptime: <b>{hours}h {minutes}m {seconds}s</b></p>
         <p>🕒 Started: <b>{START_TIME.strftime('%d %b %Y %I:%M %p')}</b></p>
