@@ -19,7 +19,7 @@ from pymongo.errors import DuplicateKeyError
 # ============================================================
 
 BOT_TOKEN    = "8568752690:AAE000QuliBxQeIoK2akC4qxfJDzAdD4su0"
-BOT_USERNAME = "@felixbypass_bot"
+BOT_USERNAME = "@eshxbypass_bot"
 
 OWNER_ID       = 8189708860
 OWNER_USERNAME = "@iam_eshh"
